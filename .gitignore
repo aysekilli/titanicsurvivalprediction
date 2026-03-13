@@ -1,0 +1,4 @@
+pngs/, data/,
+*jpg
+*.jpeg
+*.png
